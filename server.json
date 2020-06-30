@@ -9,12 +9,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "available": false,
+      "id": 2
     },
     {
       "id": 3,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://st3.depositphotos.com/1672917/13502/i/450/depositphotos_135020840-stock-photo-different-kinds-of-brazilian-food.jpg",
+      "name": "Test",
+      "price": "100.00",
+      "description": "sdfsd d",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://st3.depositphotos.com/1672917/13502/i/450/depositphotos_135020840-stock-photo-different-kinds-of-brazilian-food.jpg",
+      "name": "asd",
+      "price": "1060",
+      "description": "234",
+      "available": true,
+      "id": 6
     }
   ]
 }
